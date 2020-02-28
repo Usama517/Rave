@@ -75,7 +75,7 @@
   border: 1px solid green;
   width: 100px;
   border-radius: 25px;
-  background-color: purple;
+  background-color: green;
   color: white;
   font-style: bold;
   font-size: 20px;
